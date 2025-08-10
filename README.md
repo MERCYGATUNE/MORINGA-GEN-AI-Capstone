@@ -1,11 +1,11 @@
 # Hello World Next.js App
 
-A super simple Next.js application displaying "Hello World, This is Mercy" - perfect for beginners!
+A super simple Next.js application displaying "Hello World, This is Mercy".
 
 ## 🎯 What This App Does
 
 - Displays a beautiful "Hello World, This is Mercy" message
-- Uses modern CSS with gradients and glassmorphism effects
+- Uses modern CSS with gradients and glassmorphism effects.
 - Demonstrates basic Next.js component structure
 - Fully responsive design
 
